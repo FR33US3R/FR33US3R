@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center"> Halo Bro :) </h1>
+<p align="center">
+•●•
+</p>
 
-<!--
-**FR33US3R/FR33US3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://giffiles.alphacoders.com/120/120248.gif">
+</p>
+<p align="center">
+<i> <b> LOL! </b> </i>
+</p
 
-Here are some ideas to get you started:
+#
+### Statistik Github
+![Statistik github Anurag](https://github-readme-stats.vercel.app/api?username=FR33US3R&show_icons=true&theme=radical)<br>
+#
+#### Hubungi saya
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=AWALI+DENGAN+BISMILLAH)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/ROMI-AFRZL/FR33US3R/blob/main/Ngentod/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
